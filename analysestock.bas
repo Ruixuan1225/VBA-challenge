@@ -1,4 +1,3 @@
-Attribute VB_Name = "Module1"
 Sub AnalyseStocks()
     Dim row As Long
     Dim nextRow As Long
